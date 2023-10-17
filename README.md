@@ -2,8 +2,7 @@
 
 **🚀 I embarked on my coding journey in December 2022, beginning with the study of SQL, which was my first programming language.**
 
-Feel free to explore my portfolio.
-[Github portfolio](https://github.com/Tatiana-Ngamba/Portfolio)
+Feel free to explore my pinned repository.
 
 ## At present, I am...
 * studying on the Code First Girls Data Nano Degree 16-week course, sponsored by GCHQ.
@@ -17,8 +16,25 @@ Edlynengamba@hotmail.co.uk
 
 🎉 Fun Fact: I love sewing and altering clothes.
 
-### Technical skills
-![Python Logo](https://github.com/python/logos/blob/main/python-logo.png)
+### Technical skills:
+* **PYTHON**
+* **MYSQL**
+* **JAVASCRIPT**
+* **HTML**
+* **CSS**
+* **MARKDOWN**
+  
+### Version Control:
+* **GIT**
+* **GITHUB**
+
+### IDEs:
+* **CODEPEN** - [Link](https://codepen.io/TatianaNgamba)
+
+* **PYCHARM**
+
+### Design:
+* **CANVA**
 
 
 <!---
