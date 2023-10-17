@@ -2,7 +2,7 @@
 
 **🚀 I embarked on my coding journey in December 2022, beginning with the study of SQL, which was my first programming language.**
 
-Feel free to explore my pinned repository.
+`Please feel free to check out the repositories I have pinned.`
 
 ## At present, I am...
 * studying on the Code First Girls Data Nano Degree 16-week course, sponsored by GCHQ.
