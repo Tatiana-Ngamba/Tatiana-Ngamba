@@ -17,9 +17,9 @@ Edlynengamba@hotmail.co.uk
 🎉 Fun Fact: I love sewing and altering clothes.
 
 ### Technical skills:
-* **PYTHON**
-* **MYSQL**
-* **JAVASCRIPT**
+* **PYTHON** :snake:
+* **MYSQL**  📈
+* **JAVASCRIPT** :clapper:
 * **HTML**
 * **CSS**
 * **MARKDOWN**
