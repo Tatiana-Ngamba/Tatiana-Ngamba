@@ -4,8 +4,8 @@
 
 `Please feel free to check out the repositories I have pinned.`
 
-## At present, I am...
-* studying on the Code First Girls Data Nano Degree 16-week course, sponsored by GCHQ.
+## I have
+* complted the Code First Girls Data Nano Degree 16-week course, sponsored by GCHQ.
 
 ## Completed courses
 * Code First Girls intro to Data & SQL
