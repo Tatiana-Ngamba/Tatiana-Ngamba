@@ -1,11 +1,11 @@
-# Hello! 👋🏾 I’m Tatiana, and I'm passionate about data. 📊 As a data specialist in training, I'm on a journey to explore the fascinating world of data analysis and data science.
+# Hello! 👋🏾 I’m Tatiana, and I'm passionate about data. 
 
 **🚀 I embarked on my coding journey in December 2022, beginning with the study of SQL, which was my first programming language.**
 
 `Please feel free to check out the repositories I have pinned.`
 
 ## I have
-* complted the Code First Girls Data Nano Degree 16-week course, sponsored by GCHQ.
+* completed the Code First Girls Data Nano Degree 16-week course, sponsored by GCHQ.
 
 ## Completed courses
 * Code First Girls intro to Data & SQL
